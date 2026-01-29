@@ -4,7 +4,7 @@
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 ### Description
 This project provides a simple Python script for **FreePIE** that translates mouse movement into a virtual steering wheel axis using **vJoy**. It was designed to enhance the gameplay experience in simulation games like F1, and others that not accept mouse steering nativetly.
@@ -24,7 +24,7 @@ This project provides a simple Python script for **FreePIE** that translates mou
 
 ---
 
-## 🇧🇷 Versão em Português
+## Versão em Português
 
 ### Descrição
 Este projeto fornece um script simples em Python para o **FreePIE** que traduz o movimento do mouse em um eixo de volante virtual utilizando o **vJoy**. Desenvolvido para melhorar a experiência em simuladores como F1, e outros não aceitam mouse como controle nativamente.
@@ -41,6 +41,22 @@ Este projeto fornece um script simples em Python para o **FreePIE** que traduz o
 3.  Cole o código do arquivo `script.py` no FreePIE.
 4.  Rode o script e aperte **'C'** para ativar. (Lembrando: Você pode reconfigurar essa tecla no arquivo)
 5.  **Dica Importante:** Se o jogo não reconhecer o eixo, aumente a `sensitivity` para **1000** durante o mapeamento e depois volte para **1.5**, ou qual você quiser.
+
+---
+
+## Troubleshooting (Common Errors)
+
+### 🇺🇸 DLL Version Mismatch (Error 218/219)
+If you see the error: `"vJoy version of Driver (219) does NOT match DLL Version (218)"`:
+1. Go to your vJoy installation folder (usually `C:\Program Files\vJoy\x86`).
+2. Copy `vJoyInterface.dll`.
+3. Paste it into your FreePIE installation folder (usually `C:\Program Files (x86)\FreePIE`), replacing the existing file.
+
+### 🇧🇷 Erro de Versão da DLL (Erro 218/219)
+Se aparecer o erro: `"vJoy version of Driver (219) does NOT match DLL Version (218)"`:
+1. Vá até a pasta de instalação do vJoy (geralmente `C:\Program Files\vJoy\x86`).
+2. Copie o arquivo `vJoyInterface.dll`.
+3. Cole na pasta de instalação do FreePIE (geralmente `C:\Program Files (x86)\FreePIE`), substituindo o arquivo existente.
 
 ---
 
