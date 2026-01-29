@@ -1,5 +1,10 @@
 # Mouse Steering Script for F1 (FreePIE + vJoy)
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/cc9cd84f-8275-41fa-8746-4e03e328260b" width="100%" controls></video>
+  <p><b>Visualizing the script in action!</b></p>
+</div>
+
 [English description below] | [Descrição em português abaixo]
 
 ---
