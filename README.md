@@ -1,4 +1,4 @@
-# Mouse Steering Script for F1 (FreePIE + vJoy)
+# Mouse Steering for F1 & Sim Racing — Virtual Wheel with FreePIE + vJoy
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/cc9cd84f-8275-41fa-8746-4e03e328260b" width="100%" controls></video>
