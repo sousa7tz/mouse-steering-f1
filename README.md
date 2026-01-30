@@ -25,7 +25,7 @@ This project provides a Python script for **FreePIE** that translates mouse move
 2. Open **vJoy Conf** and ensure **Device 1** is enabled with the **X Axis** set to at least 8 buttons (optional).
 3. Copy the code from `script.py` into FreePIE.
 4. Run the script and press **'C'** to activate.
-5. **Mapping Tip:** If the game doesn't recognize the axis during setup, scroll up to increase sensitivity to **1000**, map the control in-game, and then click the scroll button to reset to **1.5**.
+5. **Mapping Tip:** If the game doesn't recognize the axis during setup, scroll up (or just edit the script momentarily) to increase sensitivity to **1000**, map the control in-game, and then click the scroll button to reset to **1.5**.
 
 ---
 
@@ -45,7 +45,7 @@ Este projeto fornece um script em Python para o **FreePIE** que traduz o movimen
 2. Abra o **vJoy Conf** e verifique se o **Device 1** está ativo com o **Eixo X**.
 3. Cole o código do arquivo `script.py` no FreePIE.
 4. Rode o script e aperte **'C'** para ativar.
-5. **Dica de Mapeamento:** Se o jogo não reconhecer o eixo na configuração, gire o scroll para aumentar a sensibilidade para **1000**, mapeie o controle no jogo e depois clique no botão do scroll para resetar para **1.5**.
+5. **Dica de Mapeamento:** Se o jogo não reconhecer o eixo na configuração, gire o scroll (ou apenas edite o script momentaneamente) para aumentar a sensibilidade para **1000**, mapeie o controle no jogo e depois clique no botão do scroll para resetar para **1.5**.
 
 ---
 
